@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly.express
+numpy
+plotly.graph_objects
+time
